@@ -1,4 +1,6 @@
 /target
+# 编译产物（发布二进制）
+/dist
 # 本地数据库副本（从原 Kotlin 项目复制，仅用于本地测试）
 *.sqlite.db
 *.sqlite.db-shm
